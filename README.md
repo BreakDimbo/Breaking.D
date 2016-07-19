@@ -18,8 +18,7 @@
 * JDBC
 * MySQL 以及 SQL《Alan_Beaulieu-Learning_SQL-EN》
 * HTML+JavaScript+CSS
-
-网上商城项目
+* 网上商城项目
 
 ### SSH 学习
 
