@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="9741600e-82b8-4762-9830-155a00749a6d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>hibernate.*</schema-pattern>
+      <default-schemas>hibernate.*</default-schemas>
+    </data-source>
+  </component>
+</project>
