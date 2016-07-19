@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-
-<beans>
-    <bean id="udi" class="com.limbo.com.limbo.spring.spring.com.limbo.UserDaoImpl"/>
-    <bean id="userService" class="com.limbo.com.limbo.spring.spring.com.limbo.UserService">
-        <property name="userDao" bean="udi"/>
-    </bean>
-</beans>

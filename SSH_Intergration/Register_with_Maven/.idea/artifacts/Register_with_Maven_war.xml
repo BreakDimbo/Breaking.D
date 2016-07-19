@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Register_with_Maven:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="register-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="Register_with_Maven:war exploded" />
-    </root>
-  </artifact>
-</component>
