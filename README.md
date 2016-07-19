@@ -18,16 +18,14 @@
 * JDBC
 * MySQL 以及 SQL《Alan_Beaulieu-Learning_SQL-EN》
 * HTML+JavaScript+CSS
-
-网上商城项目
+* 网上商城项目
 
 ### SSH 学习
 
-Struts2
-Hibernate
-Spring
-
-整合：校内网项目
+* Struts2 —— 拦截器原理模拟
+* Hibernate —— 利用反射机制模拟 ORM
+* Spring —— 利用反射+动态代理模拟 IOC 和 AOP
+* 整合：校内网项目
 
 ### 设计模式
 
