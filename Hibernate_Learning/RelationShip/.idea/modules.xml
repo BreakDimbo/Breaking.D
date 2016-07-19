@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/CRUD/CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManyToMany/ManyToMany.iml" filepath="$PROJECT_DIR$/ManyToMany/ManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManyToManyBi/ManyToManyBi.iml" filepath="$PROJECT_DIR$/ManyToManyBi/ManyToManyBi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_Course_Grade/Student_Course_Grade.iml" filepath="$PROJECT_DIR$/Student_Course_Grade/Student_Course_Grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+    </modules>
+  </component>
+</project>
