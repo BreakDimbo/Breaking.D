@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/test2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../head" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/test2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../head/ClarkeWright.h" />
+		<Unit filename="../head/Concatenate.h" />
+		<Unit filename="../head/OnePointMove.h" />
+		<Unit filename="../head/Postsert.h" />
+		<Unit filename="../head/Presert.h" />
+		<Unit filename="../head/RNG.h" />
+		<Unit filename="../head/Swap.h" />
+		<Unit filename="../head/TwoPointMove.h" />
+		<Unit filename="../head/VRP.h" />
+		<Unit filename="../head/VRPConfig.h" />
+		<Unit filename="../head/VRPDebug.h" />
+		<Unit filename="../head/VRPGenerator.h" />
+		<Unit filename="../head/VRPH.h" />
+		<Unit filename="../head/VRPHeuristic.h" />
+		<Unit filename="../head/VRPMove.h" />
+		<Unit filename="../head/VRPNode.h" />
+		<Unit filename="../head/VRPRoute.h" />
+		<Unit filename="../head/VRPSolution.h" />
+		<Unit filename="../head/VRPUtils.h" />
+		<Unit filename="../head/randvals.h" />
+		<Unit filename="../src/ClarkeWright.cpp" />
+		<Unit filename="../src/Concatenate.cpp" />
+		<Unit filename="../src/OnePointMove.cpp" />
+		<Unit filename="../src/Postsert.cpp" />
+		<Unit filename="../src/Presert.cpp" />
+		<Unit filename="../src/RNG.cpp" />
+		<Unit filename="../src/Swap.cpp" />
+		<Unit filename="../src/TwoPointMove.cpp" />
+		<Unit filename="../src/VRP.cpp" />
+		<Unit filename="../src/VRPDebug.cpp" />
+		<Unit filename="../src/VRPIO.cpp" />
+		<Unit filename="../src/VRPMove.cpp" />
+		<Unit filename="../src/VRPNode.cpp" />
+		<Unit filename="../src/VRPRoute.cpp" />
+		<Unit filename="../src/VRPSolution.cpp" />
+		<Unit filename="../src/VRPSolvers.cpp" />
+		<Unit filename="../src/VRPTSPLib.cpp" />
+		<Unit filename="../src/VRPUtils.cpp" />
+		<Unit filename="../vrp_sa.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
